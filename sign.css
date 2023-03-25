@@ -1,0 +1,48 @@
+.cont_forms_active_sign_up > .cont_img_back_ {
+    top: -20px;
+    left: -435px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+  
+  .cont_info_log_sign_up {
+    position: absolute;
+    width: 640px;
+    height: 280px;
+    top: 0px;
+    z-index: 1;
+  }
+  .col_md_sign_up {
+    position: relative;
+    float: left;
+    width: 50%;
+  }
+  
+  .cont_ba_opcitiy > h2 {
+    font-weight: 400;
+    color: #fff;
+  }
+  
+  .cont_ba_opcitiy > p {
+    font-weight: 400;
+    margin-top: 15px;
+    color: #fff;
+  }
+  .btn_sign_up {
+    background-color: #ef5350;
+    border: none;
+    padding: 10px;
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 1px 5px 20px -5px rgba(0, 0, 0, 0.4);
+    color: #fff;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  .cont_forms_active_sign_up {
+    z-index: 2;
+  }
+    
